@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about C#, Python, Django, HTML, CSS and javascript.
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/siddhi-pranamya)
 - ⚡ Fun fact: I love painting and gardening. It is a meditation to me.
-- 🎨 Check out my drawing. Hope you like it! - [girl](https://user-images.githubusercontent.com/67827905/176107293-e56c669c-a2cc-476f-8904-91624a0f16c1.jpeg)
+- 🎨 Check out my drawing. Hope you like it! - ![girl](https://user-images.githubusercontent.com/67827905/176107759-9a2cb04c-82ab-42f9-9b63-fe4b6cfe9cd2.jpeg)
