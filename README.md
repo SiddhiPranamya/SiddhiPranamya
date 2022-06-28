@@ -7,7 +7,7 @@ I am an Experienced Software Developer working in the information technology and
 - 🌱 I’m currently learning Advanced Django.
 - 👯 I’m looking to collaborate on open source or commercial projects related to django and python.
 - 💬 Ask me about Full stack development.
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/siddhi-pranamya) / My github profile
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/siddhi-pranamya/)
 - 💻 I do post the videos of project outputs on my youtube channel - [Youtube](https://studio.youtube.com/channel/UCzKLXokGviB0SeEBO-6477A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
 - ⚡ Fun fact: I love painting and gardening. It is a meditation to me.
 
